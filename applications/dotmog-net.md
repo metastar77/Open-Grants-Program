@@ -41,7 +41,7 @@ Are there any other projects similar to yours? If so, how is your project differ
 * André Schneider ([metastar77](https://github.com/metastar77))
 Artists:
 * Patrik Bundeli ([2much](https://www.instagram.com/2much_ch/))
-* Tim Kramarz ([kramart](https://www.timkramarz.com/))
+* Tim Kramarz ([timkramarz](https://www.timkramarz.com/))
 
 ### Contact
 * **Contact Name:** Cedric Decoster
@@ -53,12 +53,8 @@ Artists:
 * **Registered Legal Entity:** Name of your registered legal entity, if available. (e.g. Duo Ltd.)
 
 ### Team's experience
-Please describe the team's relevant experience.  If the project involves development work, then we'd appreciated if you can single out a few interesting code commits made by team members on their past projects. For research-related grants, references to past publications and projects in a related domain are helpful.  
-
-# Projects that have been created and are maintained by the team:
-
-
-# Organisations, where teammembers are active
+The team consists of two experienced developpers, one project manager and designer, additional we have two artists working on illustrations and 3D models.
+In past projects the team has already worked on mogwaicoin which has been live since 2018 and on the game on top The World of Mogwais. Besides that both devs have a background in reverse engineering of games and creating automations or simulators, like sabberstone. Our project manager is working in the financial sector in the same role for years as he is supporting the team. Based on the work of darkfriend77 Sabberstone simulator a lot of research and publications have been done in the AI domain (google: [sabberstone research ai](https://www.google.com/search?rlz=1C1CHBF_deCH914CH914&sxsrf=ALeKk006zio57YXebBkFf5i5F96dp67ePA%3A1612994036885&ei=9FUkYOvDNePEgwfIyLm4Ag&q=sabberstone+research+ai&oq=sabberstone+research+ai&gs_lcp=CgZwc3ktYWIQAzIHCCMQsAMQJ1AAWABg5RZoAXAAeACAAUeIAUeSAQExmAEAqgEHZ3dzLXdpesgBAcABAQ&sclient=psy-ab&ved=0ahUKEwjrjd-Ep-DuAhVj4uAKHUhkDicQ4dUDCA0&uact=5)) or even [ai competitions](https://hearthstoneai.github.io/index.html).
 
 ### Team Code Repos
 
