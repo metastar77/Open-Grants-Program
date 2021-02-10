@@ -36,13 +36,17 @@ Are there any other projects similar to yours? If so, how is your project differ
 ## Team :busts_in_silhouette:
 
 ### Team members
-* Name of team leader
-* Names of team members	
+* Cedric Decoster ([darkfriend77](https://github.com/darkfriend77))
+* Rene Windegger ([rwindegger](https://github.com/rwindegger))
+* André Schneider ([metastar77](https://github.com/metastar77))
+Artists:
+* Patrik Bundeli ([2much](https://www.instagram.com/2much_ch/))
+* Tim Kramarz ([kramart](https://www.timkramarz.com/))
 
 ### Contact
-* **Contact Name:** Full name of the contact person (e.g. John Brown)
-* **Contact Email:** Contact email (e.g. john@duo.com)
-* Website
+* **Contact Name:** Cedric Decoster
+* **Contact Email:** cedric.decoster@gmail.com
+* Website www.dotmog.com
 
 ### Legal Structure 
 * **Registered Address:** Address of your registered legal entity, if available. Please keep it on one line. (e.g. High Street 1, London LK1 234, UK)
@@ -51,13 +55,43 @@ Are there any other projects similar to yours? If so, how is your project differ
 ### Team's experience
 Please describe the team's relevant experience.  If the project involves development work, then we'd appreciated if you can single out a few interesting code commits made by team members on their past projects. For research-related grants, references to past publications and projects in a related domain are helpful.  
 
+# Projects that have been created and are maintained by the team:
+
+
+# Organisations, where teammembers are active
+
 ### Team Code Repos
-* https://github.com/<your_repo_1>
-* https://github.com/<your_repo_2>
+
+* https://github.com/dotmog/SubstrateNetApi
+* https://github.com/dotmog/substrate/tree/dotmog/bin/node/pallets/dotmog
+* https://github.com/dotmog/DOTMogCore (GameEngine, currently private)
+* https://github.com/dotmog/DOTMogClient (Unity3D Client, currently private)
+* https://github.com/darkfriend77/Unity3DExample
+
+Other projects lead and maintained by the teammembers
+* https://github.com/HearthSim/SabberStone
+* https://github.com/WorldOfMogwais/WoMNetCore
+* https://github.com/WorldOfMogwais/WoM-Releases/releases
+* https://github.com/mogwaicoin/mogwai
+* https://github.com/mogwaicoin/NeoScryptCSharp
+* https://github.com/rwindegger/RabbitExpress
+* https://github.com/rwindegger/UnityMainThreadDispatcher
+* https://github.com/darkfriend77/CoinMillions
+
+Adding a polkadot related commit here ..
+https://github.com/usetech-llc/polkadot_api_dotnet/pull/10
+
+Active organisations of the teammebers
+* https://github.com/dotmog
+* https://github.com/WorldOfMogwais
+* https://github.com/mogwaicoin
+* https://github.com/HearthSim
 
 ### Team LinkedIn Profiles
-* https://www.linkedin.com/<person_1>
-* https://www.linkedin.com/<person_2>
+* https://www.linkedin.com/in/cedric-decoster-3a004510b/
+* https://www.linkedin.com/in/renewindegger/
+* https://www.linkedin.com/in/2much/
+* https://www.linkedin.com/in/tim-kramarz-80345aba/
 
 ## Development Roadmap :nut_and_bolt: 
 
