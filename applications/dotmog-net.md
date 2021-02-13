@@ -33,12 +33,14 @@ DOTMog, is the follow-up project from the creators of "The world of Mogwais" on 
 
 #### Integration of the game into Substrate (An indication of how you will integrate this project into Substrate / Polkadot / Kusama)
 
-The go
+The goal is currently to provide a pallet with the full functionality of the game, which can be independently deployed on any Substrate based chain. It is currently active as a reference implementation on its own chain ([DOTMog.com NET](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fmogiway-01.dotmog.com#/explorer)). 
+  One of our big goals is to create further creatures in addition to the Mogwai, which have different characteristics depending on the universe on which they are located. So in a future step not only mogwais, but also kusamais or polkadais will populate the universe of the game and create a big community of gamers that loves to dive into this immersive experience.
 
-Please provide the following:
+#### Motivation (An indication of why your team is interested in creating this project.)
 
-  * .
-  * An indication of why your team is interested in creating this project.
+We have been working together for multiple years, creating new and creative games and tools together, we love to way we can our ideas and we and to work togetherwe can create in small groups and the small changes we can fastly produce without the 
+
+An indication of why your team is interested in creating this project.
 
 ### Project Details 
 We expect the teams to already have a solid idea about the project's expected final state.
