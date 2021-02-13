@@ -53,8 +53,27 @@ https://dotmog.com/gallery/
 https://github.com/dotmog/SubstrateNetApi
 
 #### An overview of the technology stack to be used
-* Documentation of core components, protocols, architecture etc. to be deployed
-* PoC/MVP or other relevant prior work or research on the topic
+
+![Application Architecture](https://imgur.com/OYMzIgY)
+
+* https://github.com/dotmog/SubstrateNetApi
+* https://github.com/dotmog/substrate/tree/dotmog/bin/node/pallets/dotmog
+* https://github.com/dotmog/DOTMogCore (GameEngine, currently private)
+* https://github.com/dotmog/DOTMogClient (Unity3D Client, currently private)
+
+#### Documentation of core components, protocols, architecture etc. to be deployed
+
+We have been working on the World of Mogwais for a long time gaining experience in technology and game design, we where stopped by the limitations of the technology we where using, problems like freezing chain due to hash power spikes or no available storage made our live hard. Just when we where giving up, we learned about substrate, so we digged into it and started to work on migrating and transforming our project in to this new world of 3 sec block times and responsive storage access.
+
+We differentiate the gamelogic into two parts, base logic which is not heavy computing intense which will run inside the node and intense computing gamelogic for example for a dungeon event, which we plan to ooutsource with an Off-Chain worker to a trusted computing environement.
+
+#### PoC/MVP or other relevant prior work or research on the topic
+
+Our alpha MVP is already running, check out our webpage (https://dotmog.com/).
+
+A lot of our previous work on the World of Mogwais is beeing used as PoC for the current project, the gamelogic we created [WoMNetCore](https://github.com/WorldOfMogwais/WoMNetCore) is reused where it makes sense or refactored to match better [Old PoC](https://github.com/WorldOfMogwais/WoM-Releases/releases).
+
+
 
 ### Ecosystem Fit 
 I think currently there is no such projects in the substrate ecosystem, at least we don't know of any.
