@@ -54,7 +54,7 @@ https://github.com/dotmog/SubstrateNetApi
 
 #### An overview of the technology stack to be used
 
-![Application Architecture](https://imgur.com/OYMzIgY)
+![Application Architecture](https://i.imgur.com/fSkrw46.png)
 
 * https://github.com/dotmog/SubstrateNetApi
 * https://github.com/dotmog/substrate/tree/dotmog/bin/node/pallets/dotmog
