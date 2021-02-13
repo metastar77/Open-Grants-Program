@@ -11,9 +11,31 @@
 *The above combination of your GitHub account submitting the application and payment address will be your unique identifier during the program. Please keep them safe.*
 
 ## Project Overview :page_facing_up: 
-If this application in response to an RFP then please indicate this on the first line of this section.
+
+We believe that the promising substrate blockchain technology enables us to bring a new way of gamification to a broad audience in a responsive, playful and immersive way. Our unique technical base allows us and the community to create independent games that can be deployed as enrichment to any substrate based chain.
 
 ### Overview
+
+Introduction
+
+DOT Mog (substrate based Unity3D Game) - Immerse yourself in the futuristic universe of the Mogwais. Lead them to glory and honor. Experience epic and thrilling adventures & duels. Explore the infinite universe & mysteries.
+
+As probably the first substrate based Unity3D game using our open-sourced (SubstrateNetApi) we bring the functionalities and benefits of this promising technology to a broad audience in a playful and immersive way.
+
+- Breed
+Create your own unique Mogwais based on the highly sophisticated Paring DNA Algorithmus.
+- Care
+Learn the language of the Mogwais and respond optimally to their needs and gain a competitive advantage.
+- Duel
+Prepare your Mogwai and fight in the Arena against other Mogwais from all over the world and achieve glory and honour. Move up to master leagues and compete with the best.
+- Explore
+Travel with interstellar spaceships into the vastness of space to unexplored and mythical places and experience exciting and challenging adventures.
+- Innovative
+The self-developed SubstrateNetApi allows for the first time full substrate integration in Unity 3D for game development and take advantage of all the benefits of this promising technlogy.
+- Blockchain based
+Substrate, developed for building distributed or decentralised systems such as cryptocurrencies, provides the backbone which powers the whole game.
+
+DOTMog, is the follow-up project from the creators of "The world of Mogwais" on the mogwaicoin blockchain.
 
 Please provide the following:
   * A brief description of the project.
