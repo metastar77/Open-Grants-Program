@@ -39,6 +39,7 @@ I think currently there is no such projects in the substrate ecosystem, at least
 * Cedric Decoster ([darkfriend77](https://github.com/darkfriend77))
 * Rene Windegger ([rwindegger](https://github.com/rwindegger))
 * André Schneider ([metastar77](https://github.com/metastar77))
+
 Artists:
 * Patrik Bundeli ([2much](https://www.instagram.com/2much_ch/))
 * Tim Kramarz ([timkramarz](https://www.timkramarz.com/))
