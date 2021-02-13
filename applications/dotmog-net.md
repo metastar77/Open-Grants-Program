@@ -34,7 +34,7 @@ DOTMog, is the follow-up project from the creators of "The world of Mogwais" on 
 #### Integration of the game into Substrate (An indication of how you will integrate this project into Substrate / Polkadot / Kusama)
 
 The goal is currently to provide a pallet with the full functionality of the game, which can be independently deployed on any Substrate based chain. It is currently active as a reference implementation on its own chain ([DOTMog.com NET](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fmogiway-01.dotmog.com#/explorer)). 
-  One of our big goals is to create further creatures in addition to the Mogwai, which have different characteristics depending on the universe on which they are located. So in a future step not only mogwais, but also kusamais or polkadais will populate the universe of the game and create a big community of gamers that loves to dive into this immersive experience.
+One of our big goals is to create further creatures in addition to the Mogwai, which have different characteristics depending on the universe on which they are located. So in a future step not only mogwais, but also kusamais or polkadais will populate the universe of the game and create a big community of gamers that loves to dive into this immersive experience.
 
 #### Motivation (An indication of why your team is interested in creating this project.)
 
@@ -65,18 +65,16 @@ https://github.com/dotmog/SubstrateNetApi
 
 We have been working on the World of Mogwais for a long time gaining experience in technology and game design, we where stopped by the limitations of the technology we where using, problems like freezing chain due to hash power spikes or no available storage made our live hard. Just when we where giving up, we learned about substrate, so we digged into it and started to work on migrating and transforming our project in to this new world of 3 sec block times and responsive storage access.
 
-We differentiate the gamelogic into two parts, base logic which is not heavy computing intense which will run inside the node and intense computing gamelogic for example for a dungeon event, which we plan to ooutsource with an Off-Chain worker to a trusted computing environement.
+We differentiate the gamelogic into two parts, base logic which is not heavy computing intense which will run inside the node and intense computing gamelogic for example for a dungeon event, which we plan to outsource with an Off-Chain worker to a trusted computing environement.
 
 #### PoC/MVP or other relevant prior work or research on the topic
 
 Our alpha MVP is already running, check out our webpage (https://dotmog.com/).
 
-A lot of our previous work on the World of Mogwais is beeing used as PoC for the current project, the gamelogic we created [WoMNetCore](https://github.com/WorldOfMogwais/WoMNetCore) is reused where it makes sense or refactored to match better [Old PoC](https://github.com/WorldOfMogwais/WoM-Releases/releases).
-
-
+A lot of our previous work on the World of Mogwais is beeing used as PoC for the current project, the gamelogic we created [WoMNetCore](https://github.com/WorldOfMogwais/WoMNetCore) is reused where it makes sense or refactored to match better, here an [old PoC](https://github.com/WorldOfMogwais/WoM-Releases/releases). We used the CryptoKitties on Substrate as our first crash course into Rust and luckily it had a theme in common with our vision from 2017 [old whitepaper](https://github.com/mogwaicoin/mogwai-doc/raw/master/doc/Mogwai_Whitepaper.pdf). 
 
 ### Ecosystem Fit 
-I think currently there is no such projects in the substrate ecosystem, at least we don't know of any.
+I think currently there is no such projects in the substrate ecosystem, at least we don't know of any. The full game logic is written down in our confluence, but for the sake of this file, we don't copy & paste it into here, but we can add it if necessary.
 
 ## Team :busts_in_silhouette:
 
