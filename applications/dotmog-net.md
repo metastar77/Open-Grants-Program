@@ -38,17 +38,21 @@ The goal is currently to provide a pallet with the full functionality of the gam
 
 #### Motivation (An indication of why your team is interested in creating this project.)
 
-We have been working together for multiple years, creating new and creative games and tools together, we love to way we can our ideas and we and to work togetherwe can create in small groups and the small changes we can fastly produce without the 
-
-An indication of why your team is interested in creating this project.
+We love the way we can matrialize our ideas. Our small team consists of game and technology enthusiasts, who work in their leisure time with great dedication, passion and great intrinsic motivation on the project. Everyone inevitably has several hats on, we are developer, graphic designer, project manager, web designer and so on. We try to make up for this deficiency with our great enthusiasm and conviction in our almost daily work for the project.
 
 ### Project Details 
-We expect the teams to already have a solid idea about the project's expected final state.
 
-Therefore, we ask the teams to submit (where relevant):
-* Mockups/designs of any UI components
-* API specifications of the core functionality
-* An overview of the technology stack to be used
+#### Mockups/designs of any UI components
+
+https://dotmog.com/gallery/
+
+![Mogwai Life-Cylce](https://lucid.app/publicSegments/view/54cde0fa-754d-4472-96b0-d7ae32f8d41a/image.png)
+
+#### API specifications of the core functionality
+
+https://github.com/dotmog/SubstrateNetApi
+
+#### An overview of the technology stack to be used
 * Documentation of core components, protocols, architecture etc. to be deployed
 * PoC/MVP or other relevant prior work or research on the topic
 
