@@ -18,7 +18,7 @@ We believe that the promising substrate blockchain technology enables us to brin
 
 #### Introduction (A brief description of the project.)
 
-[VIDEO](https://dotmog.com/wp-content/uploads/2021/02/DOTMog_game2.png)
+[![MOBILE](https://dotmog.com/wp-content/uploads/2021/02/DOTMog_game2.png)](https://youtu.be/GKWigHkaTxA)
 
 DOT Mog (substrate based Unity3D Game) - Immerse yourself in the futuristic universe of the Mogwais. Lead them to glory and honor. Experience epic and thrilling adventures & duels. Explore the infinite universe & mysteries.
 
