@@ -18,6 +18,8 @@ We believe that the promising substrate blockchain technology enables us to brin
 
 #### Introduction (A brief description of the project.)
 
+[VIDEO](https://dotmog.com/wp-content/uploads/2021/02/DOTMog_game2.png)
+
 DOT Mog (substrate based Unity3D Game) - Immerse yourself in the futuristic universe of the Mogwais. Lead them to glory and honor. Experience epic and thrilling adventures & duels. Explore the infinite universe & mysteries.
 
 As probably the first substrate based Unity3D game using our open-sourced (SubstrateNetApi) we bring the functionalities and benefits of this promising technology to a broad audience in a playful and immersive way.
@@ -28,6 +30,11 @@ As probably the first substrate based Unity3D game using our open-sourced (Subst
 * NFT's, trade Mogwais and their precious goods and become a fortuned merchant.
 * Explore, travel with interstellar spaceships into the vastness of space to unexplored and mythical places and experience exciting and challenging adventures.
 * Innovative, the self-developed SubstrateNetApi allows for the first time full substrate integration in Unity 3D for game development. Benefit from the full stack of substrates blockchain technology.
+
+![LOGIN SCREEN](https://dotmog.com/wp-content/uploads/2021/02/login_screen-2.png)
+![MAIN SCREEN](https://dotmog.com/wp-content/uploads/2021/02/Screenshot_1612460593-1.png)
+![EXPLORER](https://dotmog.com/wp-content/uploads/2021/02/Screenshot_1612460682-1.png)
+
 
 DOTMog, is the follow-up project from the creators of "The world of Mogwais" on the mogwaicoin blockchain.
 
