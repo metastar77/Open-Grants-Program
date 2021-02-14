@@ -10,7 +10,7 @@
 
 *The above combination of your GitHub account submitting the application and payment address will be your unique identifier during the program. Please keep them safe.*
 
-![LOGO](https://dotmog.com/wp-content/uploads/2020/02/DOTMog_2021_512-120x55.png)
+![LOGO](https://i.imgur.com/WuJX1tj.png)
 
 ## Project Overview :page_facing_up: 
 
