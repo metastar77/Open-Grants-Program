@@ -10,6 +10,8 @@
 
 *The above combination of your GitHub account submitting the application and payment address will be your unique identifier during the program. Please keep them safe.*
 
+![LOGO](https://dotmog.com/wp-content/uploads/2020/02/DOTMog_2021_512-120x55.png)
+
 ## Project Overview :page_facing_up: 
 
 We believe that the promising substrate blockchain technology enables us to bring a new way of gamification to a broad audience in a responsive, playful and immersive way. Our unique technical base allows us and the community to create independent games that can be deployed as enrichment to any substrate based chain.
@@ -18,6 +20,7 @@ We believe that the promising substrate blockchain technology enables us to brin
 
 #### Introduction (A brief description of the project.)
 
+***Click for a demo of our alpha release from 16.01.2021***
 [![MOBILE](https://dotmog.com/wp-content/uploads/2021/02/DOTMog_game2.png)](https://youtu.be/GKWigHkaTxA)
 
 DOT Mog (substrate based Unity3D Game) - Immerse yourself in the futuristic universe of the Mogwais. Lead them to glory and honor. Experience epic and thrilling adventures & duels. Explore the infinite universe & mysteries.
