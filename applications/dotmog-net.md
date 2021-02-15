@@ -139,6 +139,7 @@ Active organisations of the teammebers
 
 ### Team LinkedIn Profiles
 * https://www.linkedin.com/in/cedric-decoster-3a004510b/
+* https://www.xing.com/profile/Andre_Schneider90
 * https://www.linkedin.com/in/renewindegger/
 * https://www.linkedin.com/in/2much/
 * https://www.linkedin.com/in/tim-kramarz-80345aba/
@@ -210,7 +211,7 @@ To assist you in defining it, we created a document with examples for some grant
 | 4. | Subscriptions chain | Modules X, Y & Z of our custom chain will interact in such a way... (Please describe the deliverable here as detailed as possible) |  
 | 5. | Generic Approach | We will provide a dockerfile to demonstrate the full functionality of our chain |
 
-### Milestone 3 SubstrateUnityClient — Implement Reference Application in Unity3 
+### Milestone 3 SubstrateUnityClient — Implement Reference Application in Unity3D 
 * **Estimated Duration:** 1 month
 * **FTE:**  1
 * **Costs:** 500 USD 
@@ -355,8 +356,21 @@ Any additional information that you think is relevant to this application that h
 
 ### ETA of the PROJECT
 
-Currently we already have implemented the following Milestones:  
+- Currently we already have implemented the following Milestones:  
 
-:white_check_mark: **Milestone 1 SubstrateNetApi — Implement Basic Substrate .NET Standard 2.0 API**  
-:white_check_mark: **Milestone 2 SubstrateNetApi — Implement Advanced Substrate .NET Standard 2.0 API**    
+:white_check_mark: **Milestone 1: SubstrateNetApi — Implement Basic Substrate .NET Standard 2.0 API**  
+:white_check_mark: **Milestone 2: SubstrateNetApi — Implement Advanced Substrate .NET Standard 2.0 API**    
+:white_check_mark: **Milestone 3: SubstrateUnityClient — Implement Reference Application in Unity3D**  
+:white_check_mark: **Milestone 4: DOTMog Client — Implement Basic DOTMog Client (Login/Create/Remove/Breeding/Paring)**  
 
+- On going work
+
+:construction: **Milestone 5: DOTMog Client — Advanced Features (Morph/Explorer/Auction/Trade/Sacrifice/Phases & GameEvents)**  
+:construction: **Milestone 6 (GFX) Enhancement of 3D Models**  
+
+- Future Plans for MVP 2
+
+:rocket: **Milestone 7 MVP 2 — Features (Stash/Item/Skills)**  
+:rocket: **Milestone 8 MVP 2 — Features (Combatsystem, Duells, League)**  
+:rocket: **Milestone 9 MVP 3 — Extensions (Battlegrounds/Interstellar Travel/)**  
+ 
