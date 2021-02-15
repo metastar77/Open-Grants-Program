@@ -10,7 +10,7 @@
 
 *The above combination of your GitHub account submitting the application and payment address will be your unique identifier during the program. Please keep them safe.*
 
-![LOGO](https://i.imgur.com/WuJX1tj.png)
+![LOGO](https://i.imgur.com/cS6Xj0v.png)
 
 ## Project Overview :page_facing_up: 
 
