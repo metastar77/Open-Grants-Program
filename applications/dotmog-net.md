@@ -160,14 +160,9 @@ To assist you in defining it, we created a document with examples for some grant
 * Deliverables 0a-0d are mandatory and should not be removed, unless you explicitly specify a reason within the PR's `Additional Notes` section (e.g. Milestone X is research oriented and as such there is no code to test)
 
 ### Overview
-* **Total Estimated Duration:** Duration of the whole project (e.g. 2 months)
-* **Full-time equivalent (FTE):**  Workload of an employed person ([see](https://en.wikipedia.org/wiki/Full-time_equivalent)) (e.g. 2 FTE)
-* **Total Costs:** Amount of Payment in USD for the whole project. The total amount of funding needs to be below $30k for initial grants and $100k for follow-up grants at the time of submission. (e.g. 1.000 USD)
-
-### Milestone 1 SubstrateNetApi — Implement Basic Substrate .NET Standard 2.0 API 
-* **Estimated Duration:** 1 month
-* **FTE:**  1
-* **Costs:** 1.000 USD 
+* **Total Estimated Duration:** 3 months MVP 1: Milestones 1 - 6
+* **Full-time equivalent (FTE):** 2 FTE
+* **Total Costs:** 5.000 USD
 
 ### Milestone 1 SubstrateNetApi — Implement Basic Substrate .NET Standard 2.0 API 
 * **Estimated Duration:** 1 month
@@ -358,7 +353,10 @@ Please include the team's long-term plans and intentions.
 ## Additional Information :heavy_plus_sign: 
 Any additional information that you think is relevant to this application that hasn't already been included.
 
-Possible additional information to include:
+### ETA of the PROJECT
+
+Currently we already have implemented the following Milestones:
+:white_check_mark: **Milestone 1 SubstrateNetApi — Implement Basic Substrate .NET Standard 2.0 API **
 * What work has been done so far?
 * Are there are any teams who have already contributed (financially) to the project?
 * Have you applied for other grants so far?
