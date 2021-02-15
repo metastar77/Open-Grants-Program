@@ -351,6 +351,15 @@ To assist you in defining it, we created a document with examples for some grant
 ## Future Plans
 Please include the team's long-term plans and intentions.
 
+#### Future Plans for MVP 2
+
+- :rocket: **Milestone 6: MVP 2 — Features Stash/Item/Skills**  
+- :rocket: **Milestone 7: MVP 2 — Features Combatsystem, Duells, League**  
+
+#### Game Extension
+
+- :rocket: **Milestone 8 MVP 3 — Extensions (Proving grounds & Interstellar Travel (Interchain operability))**  
+
 ## Additional Information :heavy_plus_sign: 
 Any additional information that you think is relevant to this application that hasn't already been included.
 
@@ -367,12 +376,5 @@ Any additional information that you think is relevant to this application that h
 - :construction: **Milestone 4: DOTMog Client — Features Login/Create/Remove/Breeding/Paring/Morph/Explorer/Auction/Trade/Sacrifice/Phases/GameEvents**  
 - :construction: **Milestone 5: Enhancement of 3D Models / Enhancement of old Logo / Website and more ...**  
 
-#### Future Plans for MVP 2
 
-- :rocket: **Milestone 6: MVP 2 — Features Stash/Item/Skills**  
-- :rocket: **Milestone 7: MVP 2 — Features Combatsystem, Duells, League**  
-
-#### Game Extension
-
-- :rocket: **Milestone 8 MVP 3 — Extensions (Proving grounds & Interstellar Travel (Interchain operability))**  
  
