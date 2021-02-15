@@ -356,7 +356,6 @@ Any additional information that you think is relevant to this application that h
 ### ETA of the PROJECT
 
 Currently we already have implemented the following Milestones:
-:white_check_mark: **Milestone 1 SubstrateNetApi — Implement Basic Substrate .NET Standard 2.0 API **
-* What work has been done so far?
-* Are there are any teams who have already contributed (financially) to the project?
-* Have you applied for other grants so far?
+**Milestone 1 SubstrateNetApi — Implement Basic Substrate .NET Standard 2.0 API** :white_check_mark:  
+**Milestone 2 SubstrateNetApi — Implement Advanced Substrate .NET Standard 2.0 API** :white_check_mark:  
+
