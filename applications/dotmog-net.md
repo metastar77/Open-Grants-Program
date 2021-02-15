@@ -258,8 +258,9 @@ To assist you in defining it, we created a document with examples for some grant
 | 2c. | DOTMogCore (GameEngine) | Add controller functionality for the features Morph/Explorer/Auction/Trade/Sacrifice/Phases & GameEvents |  
 | 2d. | DOTMogClient (UI) | Implement Features in the client view. |  
 | 2e. | Graphics (UI) | Create GUI Interaction for the features. |
-| 3. | Testing | The new features. |
-| 4. | Relase | Release alpha version.|
+| 3. | Localization | Add Localization for chinese language |
+| 4. | Testing | The new features. |
+| 5. | Relase | Release alpha version.|
 
 ### Milestone 5 (GFX) Enhancement of 3D Models / Enhancement of old Logo / Website and more ...
 * **Estimated Duration:** 3.5 day
