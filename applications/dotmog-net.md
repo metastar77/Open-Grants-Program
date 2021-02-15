@@ -169,16 +169,34 @@ To assist you in defining it, we created a document with examples for some grant
 * **FTE:**  1
 * **Costs:** 1.000 USD 
 
+### Milestone 1 SubstrateNetApi — Implement Basic Substrate .NET Standard 2.0 API 
+* **Estimated Duration:** 1 month
+* **FTE:**  1
+* **Costs:** 1.000 USD 
+
 | Number | Deliverable | Specification |
 | ------------- | ------------- | ------------- |
-| 0a. | License | MIT |
+| 0a. | License | Apache 2.0 / MIT / Unlicense |
 | 0b. | Documentation | We will provide both inline documentation of the code and a basic tutorial that explains how a user can (for example) spin up one of our Substrate nodes. Once the node is up, it will be possible to send test transactions that will show how the new functionality works. |
 | 0c. | Testing Guide | The code will have unit-test coverage (min. 70%) to ensure functionality and robustness. In the guide we will describe how to run these tests | 
 | 0d. | Article/Tutorial | We will write an article or tutorial that explains the work done as part of the grant. 
-| 1. | Function module: X | We will create a Substrate module that will... (Please list the functionality that will be coded for the first milestone) |  
-| 2. | Substrate module: Y | We will create a Substrate module that will... |  
-| 3. | Substrate module: Z | We will create a Substrate module that will... |  
-| 4. | Substrate chain | Modules X, Y & Z of our custom chain will interact in such a way... (Please describe the deliverable here as detailed as possible) |  
+| 1. | Basic API | Create a solid base for the API, to be reusable, easy to use and simple to maintain |
+| 1a. | MetaData Model | read & parse metadata v11, v12 to json |  
+| 1b. | Connection | Connect & disconnect to node, with StreamJsonRpc, avoid reinventing the wheel where possible |  
+| 1c. | Class Model | Create basic class model, for the API |  
+| 1d. | Logging | Basic NLog implementation, make sure it's usable with Unity3D |  
+| 1e. | Errorhandling | Implement specific errorhandling | 
+| 1f. | Unit Tests | Create unit test cases | 
+| 2. | Storage Call | Implement basic storage call | 
+| 2a. | Generic Call | Implement generic type read from metadata |
+| 2b. | Type Converter | Add type converter logic for basic types |
+| 2c. | Unit Tests | Create unit test cases |
+| 3. | Refactoring | First Round of refactoring and restructure the API |
+| 4. | Submit Extrinsic | Implement basic extrinsic submits | 
+| 4a. | Generic Call | Implement typed extrinsic submits, to make access easier |
+| 4b. | Encoding | Add type encoding to the type converter class |
+| 4c. | Unit Tests | Create unit test cases, with payload testing signed and unsigned |
+| 5. | Testing | Add overall tests including connection to a node | 
 
 ### Milestone 2 SubstrateNetApi — Implement Advanced Substrate .NET Standard 2.0 API 
 * **Estimated Duration:** 1 month
