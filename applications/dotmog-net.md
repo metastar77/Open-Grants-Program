@@ -261,7 +261,7 @@ To assist you in defining it, we created a document with examples for some grant
 | 3. | Testing | The new features. |
 | 4. | Relase | Release alpha version.|
 
-### Milestone 6 (GFX) Enhancement of 3D Models / Enhancement of old Logo / Website and more ...
+### Milestone 5 (GFX) Enhancement of 3D Models / Enhancement of old Logo / Website and more ...
 * **Estimated Duration:** 3.5 day
 * **FTE:** 1 (external supplier)
 * **Costs:** 2.000 USD
@@ -283,9 +283,9 @@ To assist you in defining it, we created a document with examples for some grant
 | 9. | Website | Create new website for the DOTMOg game | 
 | 10. | Social | Reactivate social media channels with news about the project |
 
-### Milestone 7 MVP 2 — Features (Stash/Item/Skills)
+### Milestone 6 MVP 2 — Features (Stash/Item/Skills)
 * **Estimated Duration:** 1 month
-* **FTE:**  1
+* **FTE:**  2
 * **Costs:** 1.000 USD 
 
 | Number | Deliverable | Specification |
@@ -294,15 +294,19 @@ To assist you in defining it, we created a document with examples for some grant
 | 0b. | Documentation | We will provide both inline documentation of the code and a basic tutorial that explains how a user can (for example) spin up one of our Substrate nodes. Once the node is up, it will be possible to send test transactions that will show how the new functionality works. |
 | 0c. | Testing Guide | The code will have unit-test coverage (min. 70%) to ensure functionality and robustness. In the guide we will describe how to run these tests | 
 | 0d. | Article/Tutorial | We will write an article or tutorial that explains the work done as part of the grant. 
-| 1. | Update 3.0.0 | We will create a Substrate module that will... (Please list the functionality that will be coded for the first milestone) |  
-| 2. | Wallet module: Y | We will create a Substrate module that will... |  
-| 3. | AES module: Z | We will create a Substrate module that will... |  
-| 4. | Subscriptions chain | Modules X, Y & Z of our custom chain will interact in such a way... (Please describe the deliverable here as detailed as possible) |  
-| 5. | Generic Approach | We will provide a dockerfile to demonstrate the full functionality of our chain |
+| 1. | System | Work on game design for itemisation and skill system |
+| 2. | Item & Skills | Implement those features |
+| 2a. | Pallet Enhancment (Rust) | Item & Skills |  
+| 2b. | Substrate .NET API (API) | Added storage calls and chain specific types needed. |  
+| 2c. | DOTMogCore (GameEngine) | Add controller functionality for the features Item & Skills |  
+| 2d. | DOTMogClient (UI) | Implement Features in the client view. |  
+| 2e. | Graphics (UI) | Create GUI Interaction for the features. |
+| 3. | Testing | The new features. |
+| 4. | Relase | Release alpha version.|
 
-### Milestone 8 MVP 2 — Features (Combatsystem, Duells, League)
+### Milestone 7 MVP 2 — Features (Combatsystem, Duells, League)
 * **Estimated Duration:** 1 month
-* **FTE:**  1
+* **FTE:**  2
 * **Costs:** 1.000 USD 
 
 | Number | Deliverable | Specification |
@@ -311,16 +315,20 @@ To assist you in defining it, we created a document with examples for some grant
 | 0b. | Documentation | We will provide both inline documentation of the code and a basic tutorial that explains how a user can (for example) spin up one of our Substrate nodes. Once the node is up, it will be possible to send test transactions that will show how the new functionality works. |
 | 0c. | Testing Guide | The code will have unit-test coverage (min. 70%) to ensure functionality and robustness. In the guide we will describe how to run these tests | 
 | 0d. | Article/Tutorial | We will write an article or tutorial that explains the work done as part of the grant. 
-| 1. | Update 3.0.0 | We will create a Substrate module that will... (Please list the functionality that will be coded for the first milestone) |  
-| 2. | Wallet module: Y | We will create a Substrate module that will... |  
-| 3. | AES module: Z | We will create a Substrate module that will... |  
-| 4. | Subscriptions chain | Modules X, Y & Z of our custom chain will interact in such a way... (Please describe the deliverable here as detailed as possible) |  
-| 5. | Generic Approach | We will provide a dockerfile to demonstrate the full functionality of our chain |
+| 1. | System | Work on game design for Combatsystem, league and duells |
+| 2. | Combat & Duells | Implement those features |
+| 2a. | Pallet Enhancment (Rust) | Combat & Duells |  
+| 2b. | Substrate .NET API (API) | Added storage calls and chain specific types needed. |  
+| 2c. | DOTMogCore (GameEngine) | Add controller functionality for the features Combat & Duells |  
+| 2d. | DOTMogClient (UI) | Implement Features in the client view. |  
+| 2e. | Graphics (UI) | Create GUI Interaction for the features. |
+| 3. | Testing | The new features. |
+| 4. | Relase | Release alpha version.|
 
-### Milestone 9 DOTMog Client — Extensions (Battlegrounds/Interstellar Travel/)
+### Milestone 9 DOTMog Game — Extensions (Proving grounds & Interstellar Travel (Interchain operability))
 * **Estimated Duration:** 1 month
 * **FTE:**  1
-* **Costs:** 1.000 USD 
+* **Costs:** 2.000 USD 
 
 | Number | Deliverable | Specification |
 | ------------- | ------------- | ------------- |
@@ -328,11 +336,17 @@ To assist you in defining it, we created a document with examples for some grant
 | 0b. | Documentation | We will provide both inline documentation of the code and a basic tutorial that explains how a user can (for example) spin up one of our Substrate nodes. Once the node is up, it will be possible to send test transactions that will show how the new functionality works. |
 | 0c. | Testing Guide | The code will have unit-test coverage (min. 70%) to ensure functionality and robustness. In the guide we will describe how to run these tests | 
 | 0d. | Article/Tutorial | We will write an article or tutorial that explains the work done as part of the grant. 
-| 1. | Update 3.0.0 | We will create a Substrate module that will... (Please list the functionality that will be coded for the first milestone) |  
-| 2. | Wallet module: Y | We will create a Substrate module that will... |  
-| 3. | AES module: Z | We will create a Substrate module that will... |  
-| 4. | Subscriptions chain | Modules X, Y & Z of our custom chain will interact in such a way... (Please describe the deliverable here as detailed as possible) |  
-| 5. | Generic Approach | We will provide a dockerfile to demonstrate the full functionality of our chain |
+| 1. | System | Work on game design for Proving grounds & Interstellar Travel |
+| 1a. | Architecture | Work architecture for the ability to have mogwais and other species live on different chains in the substrate ecosystem, but communicate and interact with each other |
+| 1b. | PoC | Create a PoC between two chains, Bridgerelay |
+| 2. | Proving grounds & Interstellar Travel | Implement those features |
+| 2a. | Pallet Enhancment (Rust) | Combat & Duells |  
+| 2b. | Substrate .NET API (API) | Added storage calls and chain specific types needed. |  
+| 2c. | DOTMogCore (GameEngine) | Add controller functionality for the features Proving grounds & Interstellar Travel |  
+| 2d. | DOTMogClient (UI) | Implement Features in the client view. |  
+| 2e. | Graphics (UI) | Create GUI Interaction for the features. |
+| 3. | Testing | The new features. |
+| 4. | Relase | Release alpha version.|
 
 ## Future Plans
 Please include the team's long-term plans and intentions.
