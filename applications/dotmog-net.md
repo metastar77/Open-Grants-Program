@@ -199,17 +199,24 @@ To assist you in defining it, we created a document with examples for some grant
 * **FTE:**  1
 * **Costs:** 500 USD 
 
+### Milestone 2 SubstrateNetApi — Implement Advanced Substrate .NET Standard 2.0 API 
+* **Estimated Duration:** 1 month
+* **FTE:**  1
+* **Costs:** 500 USD 
+
 | Number | Deliverable | Specification |
 | ------------- | ------------- | ------------- |
 | 0a. | License | Apache 2.0 / MIT / Unlicense |
 | 0b. | Documentation | We will provide both inline documentation of the code and a basic tutorial that explains how a user can (for example) spin up one of our Substrate nodes. Once the node is up, it will be possible to send test transactions that will show how the new functionality works. |
 | 0c. | Testing Guide | The code will have unit-test coverage (min. 70%) to ensure functionality and robustness. In the guide we will describe how to run these tests | 
-| 0d. | Article/Tutorial | We will write an article or tutorial that explains the work done as part of the grant. 
-| 1. | Update 3.0.0 | We will create a Substrate module that will... (Please list the functionality that will be coded for the first milestone) |  
-| 2. | Wallet module: Y | We will create a Substrate module that will... |  
-| 3. | AES module: Z | We will create a Substrate module that will... |  
-| 4. | Subscriptions chain | Modules X, Y & Z of our custom chain will interact in such a way... (Please describe the deliverable here as detailed as possible) |  
-| 5. | Generic Approach | We will provide a dockerfile to demonstrate the full functionality of our chain |
+| 0d. | Article/Tutorial | We will write an article or tutorial that explains the work done as part of the grant. |
+| 1. | Second Round of refactoring and restructure the API |
+| 2. | Subscriptions | Implement basic subscriptions |
+| 2a. | Subscriptions | Implement generic Callback for handling multiple subscriptions with subscriptionId |
+| 2b. | Subscriptions | Added storage subscriptions, with pageing |
+| 2c. | Unit Tests | Create unit test for subscribtions |
+| 3. | Refactoring | Refactor type converters to be generic and reusable inheriting from IType, BaseType & Struct Type |
+| 4. | Update | Update to Substrate v3.0/0.9 – Apollo 14, adjust types |
 
 ### Milestone 3 SubstrateNetWallet — Implement basic wallet & example Unity3D application 
 * **Estimated Duration:** 1 month
