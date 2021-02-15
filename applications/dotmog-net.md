@@ -283,7 +283,7 @@ To assist you in defining it, we created a document with examples for some grant
 | 9. | Website | Create new website for the DOTMOg game | 
 | 10. | Social | Reactivate social media channels with news about the project |
 
-### Milestone 6 MVP 2 — Features (Stash/Item/Skills)
+### Milestone 6 MVP 2 — Features Stash/Item/Skills
 * **Estimated Duration:** 1 month
 * **FTE:**  2
 * **Costs:** 1.000 USD 
@@ -304,7 +304,7 @@ To assist you in defining it, we created a document with examples for some grant
 | 3. | Testing | The new features. |
 | 4. | Relase | Release alpha version.|
 
-### Milestone 7 MVP 2 — Features (Combatsystem, Duells, League)
+### Milestone 7 MVP 2 — Features Combatsystem, Duells, League
 * **Estimated Duration:** 1 month
 * **FTE:**  2
 * **Costs:** 1.000 USD 
@@ -325,7 +325,7 @@ To assist you in defining it, we created a document with examples for some grant
 | 3. | Testing | The new features. |
 | 4. | Relase | Release alpha version.|
 
-### Milestone 9 DOTMog Game — Extensions (Proving grounds & Interstellar Travel (Interchain operability))
+### Milestone 9 DOTMog Game — Extensions Proving grounds & Interstellar Travel (Interchain operability)
 * **Estimated Duration:** 1 month
 * **FTE:**  1
 * **Costs:** 2.000 USD 
@@ -359,18 +359,20 @@ Any additional information that you think is relevant to this application that h
 #### Currently we already have implemented the following Milestones
 
 :white_check_mark: **Milestone 1: SubstrateNetApi — Implement Basic Substrate .NET Standard 2.0 API**  
-:white_check_mark: **Milestone 2: SubstrateNetApi — Implement Advanced Substrate .NET Standard 2.0 API**    
-:white_check_mark: **Milestone 4: DOTMog Client — Implement Basic DOTMog Client (Login/Create/Remove/Breeding/Paring)**  
+:white_check_mark: **Milestone 2: SubstrateNetApi & Pallet DotMog — Implement Advanced Substrate .NET Standard 2.0 API & Basic Pallet DotMog**    
 
 #### On going work
 
-:construction: **Milestone 3: SubstrateNetWallet — Implement basic wallet & example Unity3D application**  
-:construction: **Milestone 5: DOTMog Client — Advanced Features (Morph/Explorer/Auction/Trade/Sacrifice/Phases & GameEvents)**  
-:construction: **Milestone 6 (GFX) Enhancement of 3D Models**  
+:construction: **Milestone 3: SubstrateNetWallet — Implement basic wallet & example Unity3D applications**  
+:construction: **Milestone 4: DOTMog Client — Features Login/Create/Remove/Breeding/Paring/Morph/Explorer/Auction/Trade/Sacrifice/Phases/GameEvents** 
+:construction: **Milestone 5: Enhancement of 3D Models / Enhancement of old Logo / Website and more ...**  
 
 #### Future Plans for MVP 2
 
-:rocket: **Milestone 7 MVP 2 — Features (Stash/Item/Skills)**  
-:rocket: **Milestone 8 MVP 2 — Features (Combatsystem, Duells, League)**  
-:rocket: **Milestone 9 MVP 3 — Extensions (Battlegrounds/Interstellar Travel/)**  
+:rocket: **Milestone 6: MVP 2 — Features Stash/Item/Skills**  
+:rocket: **Milestone 7: MVP 2 — Features Combatsystem, Duells, League**  
+
+#### Game Extension
+
+:rocket: **Milestone 8 MVP 3 — Extensions (Proving grounds & Interstellar Travel (Interchain operability))**  
  
