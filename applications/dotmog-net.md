@@ -261,10 +261,10 @@ To assist you in defining it, we created a document with examples for some grant
 | 3. | Testing | The new features. |
 | 4. | Relase | Release alpha version.|
 
-### Milestone 6 (GFX) Enhancement of 3D Models 
+### Milestone 6 (GFX) Enhancement of 3D Models / Enhancement of old Logo / Website and more ...
 * **Estimated Duration:** 3.5 day
 * **FTE:** 1 (external supplier)
-* **Costs:** 1.900 USD
+* **Costs:** 2.000 USD
 
 | Number | Deliverable | Specification |
 | ------------- | ------------- | ------------- |
@@ -279,6 +279,9 @@ To assist you in defining it, we created a document with examples for some grant
 | 5. | Items | Bangle, leg bracelet, earring, tattoo, cyborg implant/augmentation (10 each) |  
 | 6. | Egg | Mogwai 3D Egg for the hatching phases |  
 | 7. | Adjustments | Which will be found in the iteration process after delivery | 
+| 8. | Logo | Rebranding from Mogwaicoin to DOTMog | 
+| 9. | Website | Create new website for the DOTMOg game | 
+| 10. | Social | Reactivate social media channels with news about the project |
 
 ### Milestone 7 MVP 2 — Features (Stash/Item/Skills)
 * **Estimated Duration:** 1 month
