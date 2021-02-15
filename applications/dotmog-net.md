@@ -168,7 +168,7 @@ To assist you in defining it, we created a document with examples for some grant
 ### Milestone 1 SubstrateNetApi — Implement Basic Substrate .NET Standard 2.0 API 
 * **Estimated Duration:** 1 month
 * **FTE:**  1
-* **Costs:** 1.000 USD 
+* **Costs:** 1000 USD 
 
 | Number | Deliverable | Specification |
 | ------------- | ------------- | ------------- |
@@ -195,7 +195,7 @@ To assist you in defining it, we created a document with examples for some grant
 | 5. | Testing | Add overall tests including connection to a node | 
 
 ### Milestone 2 SubstrateNetApi & Pallet DotMog
-* **Estimated Duration:** 1 month
+* **Estimated Duration:** 0.5 month
 * **FTE:**  1
 * **Costs:** 500 USD 
 
@@ -216,7 +216,7 @@ To assist you in defining it, we created a document with examples for some grant
 | 6. | Update | Update to Substrate v3.0/0.9 – Apollo 14, adjust types |
 
 ### Milestone 3 SubstrateNetWallet — Implement basic wallet & example Unity3D applications
-* **Estimated Duration:** 1 month
+* **Estimated Duration:** 0.5 month
 * **FTE:**  1
 * **Costs:** 500 USD 
 
@@ -235,10 +235,10 @@ To assist you in defining it, we created a document with examples for some grant
 | 2b. | Examples | Small wallet example |
 | 3. | Documentation | Add documentation to the usage of the SubstrateNetApi |
 
-### Milestone 4 DOTMog Client — Implement Basic DOTMog Client (Login/Create/Remove/Breeding/Paring)
+### Milestone 4 DOTMog Client — Features Login/Create/Remove/Breeding/Paring/Morph/Explorer/Auction/Trade/Sacrifice/Phases/GameEvents
 * **Estimated Duration:** 1 month
 * **FTE:**  1
-* **Costs:** 500 USD 
+* **Costs:** 1000 USD 
 
 | Number | Deliverable | Specification |
 | ------------- | ------------- | ------------- |
@@ -246,37 +246,20 @@ To assist you in defining it, we created a document with examples for some grant
 | 0b. | Documentation | We will provide both inline documentation of the code and a basic tutorial that explains how a user can (for example) spin up one of our Substrate nodes. Once the node is up, it will be possible to send test transactions that will show how the new functionality works. |
 | 0c. | Testing Guide | The code will have unit-test coverage (min. 70%) to ensure functionality and robustness. In the guide we will describe how to run these tests | 
 | 0d. | Article/Tutorial | We will write an article or tutorial that explains the work done as part of the grant. 
-| 1. | Update 3.0.0 | We will create a Substrate module that will... (Please list the functionality that will be coded for the first milestone) |  
-| 2. | Wallet module: Y | We will create a Substrate module that will... |  
-| 3. | AES module: Z | We will create a Substrate module that will... |  
-| 4. | Subscriptions chain | Modules X, Y & Z of our custom chain will interact in such a way... (Please describe the deliverable here as detailed as possible) |  
-| 5. | Generic Approach | We will provide a dockerfile to demonstrate the full functionality of our chain |
-
-### Milestone 5 DOTMog Client — Advanced Features (Morph/Explorer/Auction/Trade/Sacrifice/Phases & GameEvents)
-* **Estimated Duration:** 1 month
-* **FTE:**  1
-* **Costs:** 1.000 USD 
-
-| Number | Deliverable | Specification |
-| ------------- | ------------- | ------------- |
-| 0a. | License | Apache 2.0 / MIT / Unlicense |
-| 0b. | Documentation | We will provide both inline documentation of the code and a basic tutorial that explains how a user can (for example) spin up one of our Substrate nodes. Once the node is up, it will be possible to send test transactions that will show how the new functionality works. |
-| 0c. | Testing Guide | The code will have unit-test coverage (min. 70%) to ensure functionality and robustness. In the guide we will describe how to run these tests | 
-| 0d. | Article/Tutorial | We will write an article or tutorial that explains the work done as part of the grant. 
-
-#### Iteration 1 (Morph/Explorer/Sacrifice)
-
-| 1. | Pallet Enhancment (Rust) | Add morphing function, enable exploring all mogwais and add sacrifice function |  
-| 2. | Substrate .NET API (API) | Added storage calls and chain specific types needed. |  
-| 3. | DOTMogCore (GameEngine) | Add controller functionality for the features Morph/Explorer/Sacrifice |  
-| 4. | DOTMogClient (UI) | Implement Features in the client view. |  
-| 5. | Graphics (UI) | Create GUI Interaction for the features. |
-| 6. | Testing | The new features. |
-| 7. | Relase | Release new alpha version.|
-
-#### Iteration 2 (Phases & GameEvents)
-
-#### Iteration 3 (Auction & Trade)
+| 1. | Login/Create/Remove/Breeding/Paring | Implement those features |
+| 1a. | Pallet Enhancment (Rust) | Add missing functions, check pairing algorithm & create breeding random for types |  
+| 1b. | Substrate .NET API (API) | Added storage calls and chain specific types needed. |  
+| 1c. | DOTMogCore (GameEngine) | Add controller functionality for the features Login/Create/Remove/Breeding/Paring |  
+| 1d. | DOTMogClient (UI) | Implement Features in the client view. |  
+| 1e. | Graphics (UI) | Create GUI Interaction for the features. |
+| 2. | Morph/Explorer/Auction/Trade/Sacrifice/Phases & GameEvents | Implement those features |
+| 2a. | Pallet Enhancment (Rust) | Add morphing function, enable exploring all mogwais and add sacrifice function, implement game event system, add initial phase |  
+| 2b. | Substrate .NET API (API) | Added storage calls and chain specific types needed. |  
+| 2c. | DOTMogCore (GameEngine) | Add controller functionality for the features Morph/Explorer/Auction/Trade/Sacrifice/Phases & GameEvents |  
+| 2d. | DOTMogClient (UI) | Implement Features in the client view. |  
+| 2e. | Graphics (UI) | Create GUI Interaction for the features. |
+| 3. | Testing | The new features. |
+| 4. | Relase | Release alpha version.|
 
 ### Milestone 6 (GFX) Enhancement of 3D Models 
 * **Estimated Duration:** 3.5 day
@@ -347,13 +330,6 @@ To assist you in defining it, we created a document with examples for some grant
 | 3. | AES module: Z | We will create a Substrate module that will... |  
 | 4. | Subscriptions chain | Modules X, Y & Z of our custom chain will interact in such a way... (Please describe the deliverable here as detailed as possible) |  
 | 5. | Generic Approach | We will provide a dockerfile to demonstrate the full functionality of our chain |
-
- 
-
-
-
-### Milestone 2 Example — Additional features
-...
 
 ## Future Plans
 Please include the team's long-term plans and intentions.
