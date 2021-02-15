@@ -356,19 +356,19 @@ Any additional information that you think is relevant to this application that h
 
 ### ETA of the PROJECT
 
-- Currently we already have implemented the following Milestones:  
+#### Currently we already have implemented the following Milestones:  
 
 :white_check_mark: **Milestone 1: SubstrateNetApi — Implement Basic Substrate .NET Standard 2.0 API**  
 :white_check_mark: **Milestone 2: SubstrateNetApi — Implement Advanced Substrate .NET Standard 2.0 API**    
 :white_check_mark: **Milestone 3: SubstrateUnityClient — Implement Reference Application in Unity3D**  
 :white_check_mark: **Milestone 4: DOTMog Client — Implement Basic DOTMog Client (Login/Create/Remove/Breeding/Paring)**  
 
-- On going work
+#### On going work
 
 :construction: **Milestone 5: DOTMog Client — Advanced Features (Morph/Explorer/Auction/Trade/Sacrifice/Phases & GameEvents)**  
 :construction: **Milestone 6 (GFX) Enhancement of 3D Models**  
 
-- Future Plans for MVP 2
+#### Future Plans for MVP 2
 
 :rocket: **Milestone 7 MVP 2 — Features (Stash/Item/Skills)**  
 :rocket: **Milestone 8 MVP 2 — Features (Combatsystem, Duells, League)**  
