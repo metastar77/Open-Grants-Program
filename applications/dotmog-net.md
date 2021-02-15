@@ -161,7 +161,7 @@ To assist you in defining it, we created a document with examples for some grant
 * Deliverables 0a-0d are mandatory and should not be removed, unless you explicitly specify a reason within the PR's `Additional Notes` section (e.g. Milestone X is research oriented and as such there is no code to test)
 
 ### Overview
-* **Total Estimated Duration:** 3 months MVP 1: Milestones 1 - 6
+* **Total Estimated Duration:** 3 months MVP 1: Milestones 1 - 5
 * **Full-time equivalent (FTE):** 2 FTE
 * **Total Costs:** 5.000 USD
 
@@ -358,21 +358,21 @@ Any additional information that you think is relevant to this application that h
 
 #### Currently we already have implemented the following Milestones
 
-:white_check_mark: **Milestone 1: SubstrateNetApi — Implement Basic Substrate .NET Standard 2.0 API**  
-:white_check_mark: **Milestone 2: SubstrateNetApi & Pallet DotMog — Implement Advanced Substrate .NET Standard 2.0 API & Basic Pallet DotMog**    
+- :white_check_mark: **Milestone 1: SubstrateNetApi — Implement Basic Substrate .NET Standard 2.0 API**  
+- :white_check_mark: **Milestone 2: SubstrateNetApi & Pallet DotMog — Implement Advanced Substrate .NET Standard 2.0 API & Basic Pallet DotMog**  
 
 #### On going work
 
-:construction: **Milestone 3: SubstrateNetWallet — Implement basic wallet & example Unity3D applications**  
-:construction: **Milestone 4: DOTMog Client — Features Login/Create/Remove/Breeding/Paring/Morph/Explorer/Auction/Trade/Sacrifice/Phases/GameEvents** 
-:construction: **Milestone 5: Enhancement of 3D Models / Enhancement of old Logo / Website and more ...**  
+- :construction: **Milestone 3: SubstrateNetWallet — Implement basic wallet & example Unity3D applications**  
+- :construction: **Milestone 4: DOTMog Client — Features Login/Create/Remove/Breeding/Paring/Morph/Explorer/Auction/Trade/Sacrifice/Phases/GameEvents**  
+- :construction: **Milestone 5: Enhancement of 3D Models / Enhancement of old Logo / Website and more ...**  
 
 #### Future Plans for MVP 2
 
-:rocket: **Milestone 6: MVP 2 — Features Stash/Item/Skills**  
-:rocket: **Milestone 7: MVP 2 — Features Combatsystem, Duells, League**  
+- :rocket: **Milestone 6: MVP 2 — Features Stash/Item/Skills**  
+- :rocket: **Milestone 7: MVP 2 — Features Combatsystem, Duells, League**  
 
 #### Game Extension
 
-:rocket: **Milestone 8 MVP 3 — Extensions (Proving grounds & Interstellar Travel (Interchain operability))**  
+- :rocket: **Milestone 8 MVP 3 — Extensions (Proving grounds & Interstellar Travel (Interchain operability))**  
  
