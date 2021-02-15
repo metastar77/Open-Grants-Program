@@ -113,7 +113,7 @@ In past projects the team has already worked together on different projects one 
 ### Team Code Repos
 
 * https://github.com/dotmog/SubstrateNetApi
-* https://github.com/dotmog/substrate/tree/dotmog/bin/node/pallets/dotmog
+* https://github.com/dotmog/substrate/tree/dotmog_v3.0.0 (dotmog pallet)
 * https://github.com/dotmog/DOTMogCore (GameEngine, currently private)
 * https://github.com/dotmog/DOTMogClient (Unity3D Client, currently private)
 * https://github.com/darkfriend77/Unity3DExample
