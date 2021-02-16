@@ -27,7 +27,7 @@ DOT Mog (substrate based Unity3D Game) - Immerse yourself in the futuristic univ
 
 As probably the first substrate based Unity3D game using our open-sourced (SubstrateNetApi) we bring the functionalities and benefits of this promising technology to a broad audience in a playful and immersive way.
 
-* Breed, create your own unique Mogwais based on the highly sophisticated Paring DNA Algorithmus.
+* Breed, create your own unique Mogwais based on the highly sophisticated Pairing DNA Algorithmus.
 * Care, learn the language of the Mogwais and respond optimally to their needs and gain a competitive advantage.
 * Duel, prepare your Mogwai and fight in the Arena against other Mogwais from all over the world and achieve glory and honour. Move up to master leagues and compete with the best.
 * NFT's, trade Mogwais and their precious goods and become a fortuned merchant.
@@ -48,7 +48,7 @@ One of our big goals is to create further creatures in addition to the Mogwai, w
 
 #### Motivation (An indication of why your team is interested in creating this project.)
 
-We love the way we can matrialize our ideas. Our small team consists of game and technology enthusiasts, who work in their leisure time with great dedication, passion and great intrinsic motivation on the project. Everyone inevitably has several hats on, we are developer, graphic designer, project manager, web designer and so on. We try to make up for this deficiency with our great enthusiasm and conviction in our almost daily work for the project.
+We love the way we can materialize our ideas. Our small team consists of game and technology enthusiasts, who work in their leisure time with great dedication, passion and great intrinsic motivation on the project. Everyone inevitably has several hats on, we are developer, graphic designer, project manager, web designer and so on. We try to make up for this deficiency with our great enthusiasm and conviction in our almost daily work for the project.
 
 ### Project Details 
 
@@ -73,18 +73,18 @@ https://github.com/dotmog/SubstrateNetApi
 
 #### Documentation of core components, protocols, architecture etc. to be deployed
 
-We have been working on the World of Mogwais for a long time gaining experience in technology and game design, we where stopped by the limitations of the technology we where using, problems like freezing chain due to hash power spikes or no available storage made our live hard. Just when we where giving up, we learned about substrate, so we digged into it and started to work on migrating and transforming our project in to this new world of 3 sec block times and responsive storage access.
+We have been working on the World of Mogwais for a long time gaining experience in technology and game design, we were stopped by the limitations of the technology we were using, problems like freezing chains due to hash power spikes or no available storage made our lives hard. Just when we were giving up, we learned about substrate, so we dug into it and started to work on migrating and transforming our project into this new world of 3 sec block times and responsive storage access.
 
-We differentiate the gamelogic into two parts, base logic which is not heavy computing intense which will run inside the node and intense computing gamelogic for example for a dungeon event, which we plan to outsource with an Off-Chain worker to a trusted computing environement.
+We differentiate the gamelogic into two parts, base logic which is not heavy computing intense which will run inside the node and intense computing gamelogic for example for a dungeon event, which we plan to outsource with an Off-Chain worker to a trusted computing environment.
 
 #### PoC/MVP or other relevant prior work or research on the topic
 
 Our alpha MVP is already running, check out our webpage (https://dotmog.com/).
 
-A lot of our previous work on the World of Mogwais is beeing used as PoC for the current project, the gamelogic we created [WoMNetCore](https://github.com/WorldOfMogwais/WoMNetCore) is reused where it makes sense or refactored to match better, here an [old PoC](https://github.com/WorldOfMogwais/WoM-Releases/releases). We used the CryptoKitties on Substrate as our first crash course into Rust and luckily it had a theme in common with our vision from 2017 [old whitepaper](https://github.com/mogwaicoin/mogwai-doc/raw/master/doc/Mogwai_Whitepaper.pdf). 
+A lot of our previous work on the World of Mogwais is being used as PoC for the current project, the game logic we created [WoMNetCore](https://github.com/WorldOfMogwais/WoMNetCore) is reused where it makes sense or refactored to match better, here an [old PoC](https://github.com/WorldOfMogwais/WoM-Releases/releases). We used the CryptoKitties on Substrate as our first crash course into Rust and luckily it had a theme in common with our vision from 2017 [old whitepaper](https://github.com/mogwaicoin/mogwai-doc/raw/master/doc/Mogwai_Whitepaper.pdf). 
 
 ### Ecosystem Fit 
-I think currently there is no such projects in the substrate ecosystem, at least we don't know of any. The full game logic is written down in our confluence, but for the sake of this file, we don't copy & paste it into here, but we can add it if necessary.
+I think currently there are no such projects in the substrate ecosystem, at least we don't know of any. The full game logic is written down in our confluence, but for the sake of this file, we don't copy & paste it into here, but we can add it if necessary.
 
 ## Team :busts_in_silhouette:
 
@@ -107,7 +107,7 @@ Artists:
 * **Registered Legal Entity:** There is no legal structure.
 
 ### Team's experience
-The team consists of two experienced developpers, one project manager / designer and additionally two supplying artists working on illustrations and 3D models.
+The team consists of two experienced developers, one project manager / designer and additionally two supplying artists working on illustrations and 3D models.
 In past projects the team has already worked together on different projects one of them is [mogwaicoin](https://github.com/mogwaicoin) which has been live since 2018 and on the game on top [The World of Mogwais](https://github.com/WorldOfMogwais/WoM-Releases/releases). Besides that both devs have a background in reverse engineering of games and creating automations or simulators, like sabberstone. Our project manager is working in the financial sector in the same role for years as he is supporting the team. Based on the work of darkfriend77 Sabberstone simulator a lot of research and publications have been done in the AI domain (google: [sabberstone research ai](https://www.google.com/search?rlz=1C1CHBF_deCH914CH914&sxsrf=ALeKk006zio57YXebBkFf5i5F96dp67ePA%3A1612994036885&ei=9FUkYOvDNePEgwfIyLm4Ag&q=sabberstone+research+ai&oq=sabberstone+research+ai&gs_lcp=CgZwc3ktYWIQAzIHCCMQsAMQJ1AAWABg5RZoAXAAeACAAUeIAUeSAQExmAEAqgEHZ3dzLXdpesgBAcABAQ&sclient=psy-ab&ved=0ahUKEwjrjd-Ep-DuAhVj4uAKHUhkDicQ4dUDCA0&uact=5)) or even [ai competitions](https://hearthstoneai.github.io/index.html). Our passion is about creating games and/or enhancing the gaming experience for us. 
 
 ### Team Code Repos
@@ -194,8 +194,8 @@ Active organisations of the teammebers
 | 1. | Second Round of refactoring and restructure the API |
 | 2. | Subscriptions | Implement basic subscriptions |
 | 2a. | Subscriptions | Implement generic Callback for handling multiple subscriptions with subscriptionId |
-| 2b. | Subscriptions | Added storage subscriptions, with pageing |
-| 2c. | Unit Tests | Create unit test for subscribtions |
+| 2b. | Subscriptions | Added storage subscriptions, with paging |
+| 2c. | Unit Tests | Create unit test for subscriptions |
 | 3. | Refactoring | Refactor type converters to be generic and reusable inheriting from IType, BaseType & Struct Type |
 | 4. | Pallet | DotMogPallet add base functionality, MogwaiStruct, AccountConfig & BreedType |
 | 5. | Pallet | DotMogPallet add pairing algorithm and MogwaiBios |
@@ -213,7 +213,7 @@ Active organisations of the teammebers
 | 0c. | Testing Guide | The code will have unit-test coverage (min. 70%) to ensure functionality and robustness. In the guide we will describe how to run these tests | 
 | 0d. | Article/Tutorial | We will write an article or tutorial that explains the work done as part of the grant. 
 | 1. | Wallet | Add basic wallet functions to be used in the game |  
-| 1a. | Wallet | AES wallet file necryption, make sure that it is usable on Unity3D Mobile deployments, Android & iOs. |
+| 1a. | Wallet | AES wallet file encryption, make sure that it is usable on Unity3D Mobile deployments, Android & iOs. |
 | 1b. | Wallet | Wallet unlock and create, subscription to account and updates |
 | 1c. | Wallet | Add events so game can register to changes, like mogwai creation, or extrinsic finalization |
 | 2. | Examples | Provide basic examples of Unity3D application using the SubstrateNetApi |
@@ -252,7 +252,7 @@ Active organisations of the teammebers
 * **Costs:** *self funded, included intellectual property*
 
 ## Future Plans
-We believe that there is a lot of potential in our project and we have a lot of idears to provide additional content that can fit on the technology that we are using.
+We believe that there is a lot of potential in our project and we have a lot of ideas to provide additional content that can fit on the technology that we are using.
 
 #### Future Plans for MVP 2
 
@@ -265,7 +265,7 @@ We believe that there is a lot of potential in our project and we have a lot of 
 
 ## Additional Information :heavy_plus_sign: 
 
-The Milestones that have been marked as self funded include intellectual property of our brand and the core game, which includes game algorithm that shouldn't be public, which will run offchain worker on a trusted computing environment, it makes no sense in having this part opensourced as it would remove the games mysteries that are part of the DOTMog experience.
+The Milestones that have been marked as self funded include intellectual property of our brand and the core game, which includes game algorithm that shouldn't be public, which will run offchain worker on a trusted computing environment, it makes no sense in having this part open source as it would remove the games mysteries that are part of the DOTMog experience.
 
 ### ETA of the PROJECT
 
