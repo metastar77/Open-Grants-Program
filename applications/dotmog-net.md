@@ -4,7 +4,7 @@
 
 > This page is also available in [Chinese (中文)](./application-template-cn.md).
 
-* **Project Name:** DOTMog NET
+* **Project Name:** DOTMog
 * **Team Name:** DOTMog Team
 * **Payment Address:** 1FgaH4sRHF4boR4Fw316ddKMJbFpsDXGeL
 
