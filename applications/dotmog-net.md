@@ -148,7 +148,7 @@ Active organisations of the teammebers
 
 ### Overview
 * **Total Estimated Duration:** 2 months
-* **Full-time equivalent (FTE):** 2 FTE
+* **Full-time equivalent (FTE):** 1 FTE
 * **Total Costs:** 3.000 USD
 
 ### Milestone 1: SubstrateNetApi — Implement Basic Substrate .NET Standard 2.0 API 
