@@ -235,12 +235,17 @@ To assist you in defining it, we created a document with examples for some grant
 | 2b. | Examples | Small wallet example |
 | 3. | Documentation | Add documentation to the usage of the SubstrateNetApi |
 
-### Milestone 4: DOTMog — Features Login/Create/Remove/Breeding/Paring/Morph/Explorer/Auction/Trade/Sacrifice/Phases/GameEvents
+### Milestone 4a: DOTMog — Features Login / Create / Remove / Breeding / Paring / Morph
 * **Estimated Duration:** 1 month
 * **FTE:**  2
 * **Costs:** *self funded, included intellectual property*
 
-### Milestone 5: (GFX) Enhancement of 3D Models / Enhancement of old Logo / Website and more ...
+### Milestone 4b: DOTMog — Features Explorer / Auction / Trade / Sacrifice / Phases / GameEvents
+* **Estimated Duration:** 1 month
+* **FTE:**  2
+* **Costs:** *self funded, included intellectual property*
+
+### Milestone 5: Enhancement of 3D Models / Enhancement of old Logo / Website and more ...
 * **Estimated Duration:** 1 month
 * **FTE:** 2 (external supplier)
 * **Costs:** *self funded, included intellectual property*
@@ -286,7 +291,8 @@ The Milestones that have been marked as self funded include intellectual propert
 #### On going work
 
 - :construction: **Milestone 3: SubstrateNetWallet — Implement basic wallet & example Unity3D applications**  
-- :construction: **Milestone 4: DOTMog Client — Features Login/Create/Remove/Breeding/Paring/Morph/Explorer/Auction/Trade/Sacrifice/Phases/GameEvents**  
+- :construction: **Milestone 4a: DOTMog Client — Features Login / Create / Remove / Breeding / Paring / Morph**  
+- :construction: **Milestone 4b: DOTMog Client — Features Explorer / Auction / Trade / Sacrifice / Phases / GameEvents**  
 - :construction: **Milestone 5: Enhancement of 3D Models / Enhancement of old Logo / Website and more ...**  
 
 
