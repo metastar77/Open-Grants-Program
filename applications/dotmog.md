@@ -280,6 +280,3 @@ The Milestones that have been marked as self funded include intellectual propert
 - :construction: **Milestone 3: SubstrateNetWallet — Implement basic wallet & example Unity3D applications**  
 - :construction: **Milestone 4b: DOTMog Client — Features Explorer / Auction / Trade / Sacrifice / Phases / GameEvents**  
 - :construction: **Milestone 5: Enhancement of 3D Models / Enhancement of old Logo / Website and more ...**  
-
-
- 
