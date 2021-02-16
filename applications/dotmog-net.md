@@ -240,112 +240,25 @@ To assist you in defining it, we created a document with examples for some grant
 * **FTE:**  2
 * **Costs:** *self funded, included intellectual property*
 
-| Number | Deliverable | Specification |
-| ------------- | ------------- | ------------- |
-| 0a. | License | Apache 2.0 / MIT / Unlicense |
-| 0b. | Documentation | We will provide both inline documentation of the code and a basic tutorial that explains how a user can (for example) spin up one of our Substrate nodes. Once the node is up, it will be possible to send test transactions that will show how the new functionality works. |
-| 0c. | Testing Guide | The code will have unit-test coverage (min. 70%) to ensure functionality and robustness. In the guide we will describe how to run these tests | 
-| 0d. | Article/Tutorial | We will write an article or tutorial that explains the work done as part of the grant. 
-| 1. | Login/Create/Remove/Breeding/Paring | Implement those features |
-| 1a. | Pallet Enhancment (Rust) | Add missing functions, check pairing algorithm & create breeding random for types |  
-| 1b. | Substrate .NET API (API) | Added storage calls and chain specific types needed. |  
-| 1c. | DOTMogCore (GameEngine) | Add controller functionality for the features Login/Create/Remove/Breeding/Paring |  
-| 1d. | DOTMogClient (UI) | Implement Features in the client view. |  
-| 1e. | Graphics (UI) | Create GUI Interaction for the features. |
-| 2. | Game Design | Work on the game design and the documentation of the features |
-| 3. | Morph/Explorer/Auction/Trade/Sacrifice/Phases & GameEvents | Implement those features |
-| 3a. | Pallet Enhancment (Rust) | Add morphing function, enable exploring all mogwais and add sacrifice function, implement game event system, add initial phase |  
-| 3b. | Substrate .NET API (API) | Added storage calls and chain specific types needed. |  
-| 4. | Localization | Add Localization for chinese language |
-| 5. | Testing | The new features. |
-| 6. | Relase | Release alpha version.|
-
 ### Milestone 5 (GFX) Enhancement of 3D Models / Enhancement of old Logo / Website and more ...
 * **Estimated Duration:** 1 month
 * **FTE:** 2 (external supplier)
 * **Costs:** *self funded, included intellectual property*
-
-| Number | Deliverable | Specification |
-| ------------- | ------------- | ------------- |
-| 0a. | License | Copyright |
-| 0b. | Documentation | We will provide both inline documentation of the code and a basic tutorial that explains how a user can (for example) spin up one of our Substrate nodes. Once the node is up, it will be possible to send test transactions that will show how the new functionality works. |
-| 0c. | Testing Guide | The code will have unit-test coverage (min. 70%) to ensure functionality and robustness. In the guide we will describe how to run these tests | 
-| 0d. | Article/Tutorial | We will write an article or tutorial that explains the work done as part of the grant. 
-| 1. | Body | Enhancements, to individualize mogwai more |
-| 2. | Horn | 10 Horn-Variations |
-| 3. | Eyes | Eyelids independently controllable | 
-| 4. | Ears | Movable ears |
-| 5. | Items | Bangle, leg bracelet, earring, tattoo, cyborg implant/augmentation (10 each) |  
-| 6. | Egg | Mogwai 3D Egg for the hatching phases |  
-| 7. | Adjustments | Which will be found in the iteration process after delivery | 
-| 8. | Logo | Rebranding from Mogwaicoin to DOTMog | 
-| 9. | Website | Create new website for the DOTMOg game | 
-| 10. | Social | Reactivate social media channels with news about the project |
 
 ### Milestone 6 MVP 2 — Features Stash/Item/Skills
 * **Estimated Duration:** 1 month
 * **FTE:**  2
 * **Costs:** self funded, included intellectual property
 
-| Number | Deliverable | Specification |
-| ------------- | ------------- | ------------- |
-| 0a. | License | Apache 2.0 / MIT / Unlicense |
-| 0b. | Documentation | We will provide both inline documentation of the code and a basic tutorial that explains how a user can (for example) spin up one of our Substrate nodes. Once the node is up, it will be possible to send test transactions that will show how the new functionality works. |
-| 0c. | Testing Guide | The code will have unit-test coverage (min. 70%) to ensure functionality and robustness. In the guide we will describe how to run these tests | 
-| 0d. | Article/Tutorial | We will write an article or tutorial that explains the work done as part of the grant. 
-| 1. | System | Work on game design for itemisation and skill system |
-| 2. | Item & Skills | Implement those features |
-| 2a. | Pallet Enhancment (Rust) | Item & Skills |  
-| 2b. | Substrate .NET API (API) | Added storage calls and chain specific types needed. |  
-| 2c. | DOTMogCore (GameEngine) | Add controller functionality for the features Item & Skills |  
-| 2d. | DOTMogClient (UI) | Implement Features in the client view. |  
-| 2e. | Graphics (UI) | Create GUI Interaction for the features. |
-| 3. | Testing | The new features. |
-| 4. | Relase | Release alpha version.|
-
 ### Milestone 7 MVP 2 — Features Combatsystem, Duells, League
 * **Estimated Duration:** 1 month
 * **FTE:**  2
 * **Costs:** *self funded, included intellectual property*
 
-| Number | Deliverable | Specification |
-| ------------- | ------------- | ------------- |
-| 0a. | License | Apache 2.0 / MIT / Unlicense |
-| 0b. | Documentation | We will provide both inline documentation of the code and a basic tutorial that explains how a user can (for example) spin up one of our Substrate nodes. Once the node is up, it will be possible to send test transactions that will show how the new functionality works. |
-| 0c. | Testing Guide | The code will have unit-test coverage (min. 70%) to ensure functionality and robustness. In the guide we will describe how to run these tests | 
-| 0d. | Article/Tutorial | We will write an article or tutorial that explains the work done as part of the grant. 
-| 1. | System | Work on game design for Combatsystem, league and duells |
-| 2. | Combat & Duells | Implement those features |
-| 2a. | Pallet Enhancment (Rust) | Combat & Duells |  
-| 2b. | Substrate .NET API (API) | Added storage calls and chain specific types needed. |  
-| 2c. | DOTMogCore (GameEngine) | Add controller functionality for the features Combat & Duells |  
-| 2d. | DOTMogClient (UI) | Implement Features in the client view. |  
-| 2e. | Graphics (UI) | Create GUI Interaction for the features. |
-| 3. | Testing | The new features. |
-| 4. | Relase | Release alpha version.|
-
-### Milestone 9 DOTMog Game — Extensions Proving grounds & Interstellar Travel (Interchain operability)
+### Milestone 8 DOTMog Game — Extensions Proving grounds & Interstellar Travel (Interchain operability)
 * **Estimated Duration:** 3 month
 * **FTE:**  2
 * **Costs:** *self funded, included intellectual property*
-
-| Number | Deliverable | Specification |
-| ------------- | ------------- | ------------- |
-| 0a. | License | Apache 2.0 / MIT / Unlicense |
-| 0b. | Documentation | We will provide both inline documentation of the code and a basic tutorial that explains how a user can (for example) spin up one of our Substrate nodes. Once the node is up, it will be possible to send test transactions that will show how the new functionality works. |
-| 0c. | Testing Guide | The code will have unit-test coverage (min. 70%) to ensure functionality and robustness. In the guide we will describe how to run these tests | 
-| 0d. | Article/Tutorial | We will write an article or tutorial that explains the work done as part of the grant. 
-| 1. | System | Work on game design for Proving grounds & Interstellar Travel |
-| 1a. | Architecture | Work architecture for the ability to have mogwais and other species live on different chains in the substrate ecosystem, but communicate and interact with each other |
-| 1b. | PoC | Create a PoC between two chains, Bridgerelay |
-| 2. | Proving grounds & Interstellar Travel | Implement those features |
-| 2a. | Pallet Enhancment (Rust) | Combat & Duells |  
-| 2b. | Substrate .NET API (API) | Added storage calls and chain specific types needed. |  
-| 2c. | DOTMogCore (GameEngine) | Add controller functionality for the features Proving grounds & Interstellar Travel |  
-| 2d. | DOTMogClient (UI) | Implement Features in the client view. |  
-| 2e. | Graphics (UI) | Create GUI Interaction for the features. |
-| 3. | Testing | The new features. |
-| 4. | Relase | Release alpha version.|
 
 ## Future Plans
 We believe that there is a lot of potential in our project and we have a lot of idears to provide additional content that can fit on the technology that we are using.
