@@ -194,7 +194,7 @@ To assist you in defining it, we created a document with examples for some grant
 | 4c. | Unit Tests | Create unit test cases, with payload testing signed and unsigned |
 | 5. | Testing | Add overall tests including connection to a node | 
 
-### Milestone 2 SubstrateNetApi & Pallet DotMog
+### Milestone 2 SubstrateNetApi & Pallet DotMog — Implement Advanced Substrate .NET Standard 2.0 API & Basic Pallet DotMog
 * **Estimated Duration:** 0.5 month
 * **FTE:**  1
 * **Costs:** 500 USD 
