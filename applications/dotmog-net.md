@@ -256,12 +256,12 @@ We believe that there is a lot of potential in our project and we have a lot of 
 
 #### Future Plans for MVP 2
 
-- :rocket: **Milestone 6: MVP 2 — Features Stash/Item/Skills**  
+- :rocket: **Milestone 6: MVP 2 — Features Stash / Item / Skills**  
 - :rocket: **Milestone 7: MVP 2 — Features Combatsystem, Duells, League**  
 
 #### Game Extension
 
-- :rocket: **Milestone 8 MVP 3 — Extensions (Proving grounds & Interstellar Travel (Interchain operability))**  
+- :rocket: **Milestone 8 Extension — Proving grounds & Interstellar Travel (Interchain operability)**  
 
 ## Additional Information :heavy_plus_sign: 
 
