@@ -161,14 +161,14 @@ To assist you in defining it, we created a document with examples for some grant
 * Deliverables 0a-0d are mandatory and should not be removed, unless you explicitly specify a reason within the PR's `Additional Notes` section (e.g. Milestone X is research oriented and as such there is no code to test)
 
 ### Overview
-* **Total Estimated Duration:** 3 months
+* **Total Estimated Duration:** 2 months
 * **Full-time equivalent (FTE):** 2 FTE
-* **Total Costs:** 2.000 USD
+* **Total Costs:** 3.000 USD
 
-### Milestone 1 SubstrateNetApi — Implement Basic Substrate .NET Standard 2.0 API 
+### Milestone 1: SubstrateNetApi — Implement Basic Substrate .NET Standard 2.0 API 
 * **Estimated Duration:** 1 month
 * **FTE:**  1
-* **Costs:** 1000 USD 
+* **Costs:** 1.500 USD 
 
 | Number | Deliverable | Specification |
 | ------------- | ------------- | ------------- |
@@ -194,10 +194,10 @@ To assist you in defining it, we created a document with examples for some grant
 | 4c. | Unit Tests | Create unit test cases, with payload testing signed and unsigned |
 | 5. | Testing | Add overall tests including connection to a node | 
 
-### Milestone 2 SubstrateNetApi & Pallet DotMog — Implement Advanced Substrate .NET Standard 2.0 API & Basic Pallet DotMog
+### Milestone 2: SubstrateNetApi & Pallet DotMog — Implement Advanced Substrate .NET Standard 2.0 API & Basic Pallet DotMog
 * **Estimated Duration:** 0.5 month
 * **FTE:**  1
-* **Costs:** 500 USD 
+* **Costs:** 750 USD 
 
 | Number | Deliverable | Specification |
 | ------------- | ------------- | ------------- |
@@ -215,10 +215,10 @@ To assist you in defining it, we created a document with examples for some grant
 | 5. | Pallet | DotMogPallet add pairing algorithm and MogwaiBios |
 | 6. | Update | Update to Substrate v3.0/0.9 – Apollo 14, adjust types |
 
-### Milestone 3 SubstrateNetWallet — Implement basic wallet & example Unity3D applications
+### Milestone 3: SubstrateNetWallet — Implement basic wallet & example Unity3D applications
 * **Estimated Duration:** 0.5 month
 * **FTE:**  1
-* **Costs:** 500 USD 
+* **Costs:** 750 USD 
 
 | Number | Deliverable | Specification |
 | ------------- | ------------- | ------------- |
@@ -235,27 +235,27 @@ To assist you in defining it, we created a document with examples for some grant
 | 2b. | Examples | Small wallet example |
 | 3. | Documentation | Add documentation to the usage of the SubstrateNetApi |
 
-### Milestone 4 DOTMog — Features Login/Create/Remove/Breeding/Paring/Morph/Explorer/Auction/Trade/Sacrifice/Phases/GameEvents
+### Milestone 4: DOTMog — Features Login/Create/Remove/Breeding/Paring/Morph/Explorer/Auction/Trade/Sacrifice/Phases/GameEvents
 * **Estimated Duration:** 1 month
 * **FTE:**  2
 * **Costs:** *self funded, included intellectual property*
 
-### Milestone 5 (GFX) Enhancement of 3D Models / Enhancement of old Logo / Website and more ...
+### Milestone 5: (GFX) Enhancement of 3D Models / Enhancement of old Logo / Website and more ...
 * **Estimated Duration:** 1 month
 * **FTE:** 2 (external supplier)
 * **Costs:** *self funded, included intellectual property*
 
-### Milestone 6 MVP 2 — Features Stash/Item/Skills
+### Milestone 6: MVP 2 — Features Stash/Item/Skills
 * **Estimated Duration:** 1 month
 * **FTE:**  2
 * **Costs:** self funded, included intellectual property
 
-### Milestone 7 MVP 2 — Features Combatsystem, Duells, League
+### Milestone 7: MVP 2 — Features Combatsystem, Duells, League
 * **Estimated Duration:** 1 month
 * **FTE:**  2
 * **Costs:** *self funded, included intellectual property*
 
-### Milestone 8 DOTMog Game — Extensions Proving grounds & Interstellar Travel (Interchain operability)
+### Milestone 8: DOTMog Game — Extensions Proving grounds & Interstellar Travel (Interchain operability)
 * **Estimated Duration:** 3 month
 * **FTE:**  2
 * **Costs:** *self funded, included intellectual property*
