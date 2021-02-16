@@ -161,9 +161,9 @@ To assist you in defining it, we created a document with examples for some grant
 * Deliverables 0a-0d are mandatory and should not be removed, unless you explicitly specify a reason within the PR's `Additional Notes` section (e.g. Milestone X is research oriented and as such there is no code to test)
 
 ### Overview
-* **Total Estimated Duration:** 3 months MVP 1: Milestones 1 - 5
+* **Total Estimated Duration:** 3 months
 * **Full-time equivalent (FTE):** 2 FTE
-* **Total Costs:** 5.000 USD
+* **Total Costs:** 2.000 USD
 
 ### Milestone 1 SubstrateNetApi — Implement Basic Substrate .NET Standard 2.0 API 
 * **Estimated Duration:** 1 month
@@ -235,7 +235,7 @@ To assist you in defining it, we created a document with examples for some grant
 | 2b. | Examples | Small wallet example |
 | 3. | Documentation | Add documentation to the usage of the SubstrateNetApi |
 
-### Milestone 4 DOTMog Client — Features Login/Create/Remove/Breeding/Paring/Morph/Explorer/Auction/Trade/Sacrifice/Phases/GameEvents
+### Milestone 4 DOTMog — Features Login/Create/Remove/Breeding/Paring/Morph/Explorer/Auction/Trade/Sacrifice/Phases/GameEvents
 * **Estimated Duration:** 1 month
 * **FTE:**  1
 * **Costs:** 1000 USD 
@@ -252,15 +252,13 @@ To assist you in defining it, we created a document with examples for some grant
 | 1c. | DOTMogCore (GameEngine) | Add controller functionality for the features Login/Create/Remove/Breeding/Paring |  
 | 1d. | DOTMogClient (UI) | Implement Features in the client view. |  
 | 1e. | Graphics (UI) | Create GUI Interaction for the features. |
-| 2. | Morph/Explorer/Auction/Trade/Sacrifice/Phases & GameEvents | Implement those features |
-| 2a. | Pallet Enhancment (Rust) | Add morphing function, enable exploring all mogwais and add sacrifice function, implement game event system, add initial phase |  
-| 2b. | Substrate .NET API (API) | Added storage calls and chain specific types needed. |  
-| 2c. | DOTMogCore (GameEngine) | Add controller functionality for the features Morph/Explorer/Auction/Trade/Sacrifice/Phases & GameEvents |  
-| 2d. | DOTMogClient (UI) | Implement Features in the client view. |  
-| 2e. | Graphics (UI) | Create GUI Interaction for the features. |
-| 3. | Localization | Add Localization for chinese language |
-| 4. | Testing | The new features. |
-| 5. | Relase | Release alpha version.|
+| 2. | Game Design | Work on the game design and the documentation of the features |
+| 3. | Morph/Explorer/Auction/Trade/Sacrifice/Phases & GameEvents | Implement those features |
+| 3a. | Pallet Enhancment (Rust) | Add morphing function, enable exploring all mogwais and add sacrifice function, implement game event system, add initial phase |  
+| 3b. | Substrate .NET API (API) | Added storage calls and chain specific types needed. |  
+| 4. | Localization | Add Localization for chinese language |
+| 5. | Testing | The new features. |
+| 6. | Relase | Release alpha version.|
 
 ### Milestone 5 (GFX) Enhancement of 3D Models / Enhancement of old Logo / Website and more ...
 * **Estimated Duration:** 3.5 day
@@ -349,8 +347,10 @@ To assist you in defining it, we created a document with examples for some grant
 | 3. | Testing | The new features. |
 | 4. | Relase | Release alpha version.|
 
+
+
 ## Future Plans
-Please include the team's long-term plans and intentions.
+We believe that there is a lot of potential in our project and we have a lot of idears to provide additional content that can fit on the technology that we are using.
 
 #### Future Plans for MVP 2
 
@@ -363,6 +363,9 @@ Please include the team's long-term plans and intentions.
 
 ## Additional Information :heavy_plus_sign: 
 Any additional information that you think is relevant to this application that hasn't already been included.
+
+### Additional Information
+The Milestones that have been marked as self funded include intellectual property of our brand and the core game, to have this part opensourced would remove a lot of passion about theorycrafting the algorithm behinde the game.
 
 ### ETA of the PROJECT
 
