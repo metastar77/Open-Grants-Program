@@ -237,8 +237,8 @@ To assist you in defining it, we created a document with examples for some grant
 
 ### Milestone 4 DOTMog — Features Login/Create/Remove/Breeding/Paring/Morph/Explorer/Auction/Trade/Sacrifice/Phases/GameEvents
 * **Estimated Duration:** 1 month
-* **FTE:**  1
-* **Costs:** 1000 USD 
+* **FTE:**  2
+* **Costs:** *self funded, included intellectual property*
 
 | Number | Deliverable | Specification |
 | ------------- | ------------- | ------------- |
@@ -261,9 +261,9 @@ To assist you in defining it, we created a document with examples for some grant
 | 6. | Relase | Release alpha version.|
 
 ### Milestone 5 (GFX) Enhancement of 3D Models / Enhancement of old Logo / Website and more ...
-* **Estimated Duration:** 3.5 day
-* **FTE:** 1 (external supplier)
-* **Costs:** 2.000 USD
+* **Estimated Duration:** 1 month
+* **FTE:** 2 (external supplier)
+* **Costs:** *self funded, included intellectual property*
 
 | Number | Deliverable | Specification |
 | ------------- | ------------- | ------------- |
@@ -285,7 +285,7 @@ To assist you in defining it, we created a document with examples for some grant
 ### Milestone 6 MVP 2 — Features Stash/Item/Skills
 * **Estimated Duration:** 1 month
 * **FTE:**  2
-* **Costs:** 1.000 USD 
+* **Costs:** self funded, included intellectual property
 
 | Number | Deliverable | Specification |
 | ------------- | ------------- | ------------- |
@@ -306,7 +306,7 @@ To assist you in defining it, we created a document with examples for some grant
 ### Milestone 7 MVP 2 — Features Combatsystem, Duells, League
 * **Estimated Duration:** 1 month
 * **FTE:**  2
-* **Costs:** 1.000 USD 
+* **Costs:** *self funded, included intellectual property*
 
 | Number | Deliverable | Specification |
 | ------------- | ------------- | ------------- |
@@ -325,9 +325,9 @@ To assist you in defining it, we created a document with examples for some grant
 | 4. | Relase | Release alpha version.|
 
 ### Milestone 9 DOTMog Game — Extensions Proving grounds & Interstellar Travel (Interchain operability)
-* **Estimated Duration:** 1 month
-* **FTE:**  1
-* **Costs:** 2.000 USD 
+* **Estimated Duration:** 3 month
+* **FTE:**  2
+* **Costs:** *self funded, included intellectual property*
 
 | Number | Deliverable | Specification |
 | ------------- | ------------- | ------------- |
@@ -347,8 +347,6 @@ To assist you in defining it, we created a document with examples for some grant
 | 3. | Testing | The new features. |
 | 4. | Relase | Release alpha version.|
 
-
-
 ## Future Plans
 We believe that there is a lot of potential in our project and we have a lot of idears to provide additional content that can fit on the technology that we are using.
 
@@ -362,10 +360,8 @@ We believe that there is a lot of potential in our project and we have a lot of 
 - :rocket: **Milestone 8 MVP 3 — Extensions (Proving grounds & Interstellar Travel (Interchain operability))**  
 
 ## Additional Information :heavy_plus_sign: 
-Any additional information that you think is relevant to this application that hasn't already been included.
 
-### Additional Information
-The Milestones that have been marked as self funded include intellectual property of our brand and the core game, to have this part opensourced would remove a lot of passion about theorycrafting the algorithm behinde the game.
+The Milestones that have been marked as self funded include intellectual property of our brand and the core game, which includes game algorithm that shouldn't be public, which will run offchain worker on a trusted computing environment, it makes no sense in having this part opensourced as it would remove the games mysteries that are part of the DOTMog experience.
 
 ### ETA of the PROJECT
 
