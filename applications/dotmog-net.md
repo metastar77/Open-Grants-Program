@@ -273,11 +273,11 @@ The Milestones that have been marked as self funded include intellectual propert
 
 - :white_check_mark: **Milestone 1: SubstrateNetApi — Implement Basic Substrate .NET Standard 2.0 API**  
 - :white_check_mark: **Milestone 2: SubstrateNetApi & Pallet DotMog — Implement Advanced Substrate .NET Standard 2.0 API & Basic Pallet DotMog**  
+- :white_check_mark: **Milestone 4a: DOTMog Client — Features Login / Create / Remove / Breeding / Paring / Morph**  
 
 #### On going work
 
 - :construction: **Milestone 3: SubstrateNetWallet — Implement basic wallet & example Unity3D applications**  
-- :construction: **Milestone 4a: DOTMog Client — Features Login / Create / Remove / Breeding / Paring / Morph**  
 - :construction: **Milestone 4b: DOTMog Client — Features Explorer / Auction / Trade / Sacrifice / Phases / GameEvents**  
 - :construction: **Milestone 5: Enhancement of 3D Models / Enhancement of old Logo / Website and more ...**  
 
